@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_bytes.a CMakeFiles/tint_utils_bytes.dir/utils/bytes/buffer_reader.cc.o CMakeFiles/tint_utils_bytes.dir/utils/bytes/reader.cc.o
+/usr/bin/ranlib libtint_utils_bytes.a

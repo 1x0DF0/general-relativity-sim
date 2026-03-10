@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_glsl_validate.a CMakeFiles/tint_lang_glsl_validate.dir/lang/glsl/validate/validate.cc.o
+/usr/bin/ranlib libtint_lang_glsl_validate.a

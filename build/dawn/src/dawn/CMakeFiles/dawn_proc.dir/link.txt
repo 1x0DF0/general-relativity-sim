@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_proc.a CMakeFiles/dawn_proc.dir/__/__/gen/src/dawn/dawn_proc.cpp.o CMakeFiles/dawn_proc.dir/__/__/gen/src/dawn/dawn_thread_dispatch_proc.cpp.o
+/usr/bin/ranlib libdawn_proc.a

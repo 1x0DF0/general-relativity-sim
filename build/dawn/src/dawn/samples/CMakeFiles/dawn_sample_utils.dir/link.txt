@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_sample_utils.a CMakeFiles/dawn_sample_utils.dir/SampleUtils.cpp.o
+/usr/bin/ranlib libdawn_sample_utils.a

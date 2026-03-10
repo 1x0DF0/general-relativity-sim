@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_wgpu_utils.a CMakeFiles/dawn_wgpu_utils.dir/__/__/__/gen/src/dawn/utils/ComboLimits.cpp.o CMakeFiles/dawn_wgpu_utils.dir/ComboRenderBundleEncoderDescriptor.cpp.o CMakeFiles/dawn_wgpu_utils.dir/ComboRenderPipelineDescriptor.cpp.o CMakeFiles/dawn_wgpu_utils.dir/ScopedIgnoreValidationErrors.cpp.o CMakeFiles/dawn_wgpu_utils.dir/TextureUtils.cpp.o CMakeFiles/dawn_wgpu_utils.dir/WGPUHelpers.cpp.o
+/usr/bin/ranlib libdawn_wgpu_utils.a

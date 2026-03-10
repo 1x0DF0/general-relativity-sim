@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_hlsl_intrinsic.a CMakeFiles/tint_lang_hlsl_intrinsic.dir/lang/hlsl/intrinsic/data.cc.o
+/usr/bin/ranlib libtint_lang_hlsl_intrinsic.a

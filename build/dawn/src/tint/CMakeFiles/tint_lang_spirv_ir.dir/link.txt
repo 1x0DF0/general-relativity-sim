@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_ir.a CMakeFiles/tint_lang_spirv_ir.dir/lang/spirv/ir/binary.cc.o CMakeFiles/tint_lang_spirv_ir.dir/lang/spirv/ir/builtin_call.cc.o CMakeFiles/tint_lang_spirv_ir.dir/lang/spirv/ir/copy_logical.cc.o
+/usr/bin/ranlib libtint_lang_spirv_ir.a

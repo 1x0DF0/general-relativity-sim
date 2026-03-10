@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_protos_ir_fuzz_proto.a CMakeFiles/tint_utils_protos_ir_fuzz_proto.dir/__/__/gen/src/tint/utils/protos/ir_fuzz/ir_fuzz.pb.cc.o
+/usr/bin/ranlib libtint_utils_protos_ir_fuzz_proto.a

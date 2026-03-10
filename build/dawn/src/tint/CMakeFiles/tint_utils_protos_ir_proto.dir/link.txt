@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_protos_ir_proto.a CMakeFiles/tint_utils_protos_ir_proto.dir/__/__/gen/src/tint/utils/protos/ir/ir.pb.cc.o
+/usr/bin/ranlib libtint_utils_protos_ir_proto.a

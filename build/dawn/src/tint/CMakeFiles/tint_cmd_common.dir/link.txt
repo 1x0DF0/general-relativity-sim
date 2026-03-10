@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_cmd_common.a CMakeFiles/tint_cmd_common.dir/cmd/common/helper.cc.o
+/usr/bin/ranlib libtint_cmd_common.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_msl_type.a CMakeFiles/tint_lang_msl_type.dir/lang/msl/type/bias.cc.o CMakeFiles/tint_lang_msl_type.dir/lang/msl/type/gradient.cc.o CMakeFiles/tint_lang_msl_type.dir/lang/msl/type/level.cc.o
+/usr/bin/ranlib libtint_lang_msl_type.a

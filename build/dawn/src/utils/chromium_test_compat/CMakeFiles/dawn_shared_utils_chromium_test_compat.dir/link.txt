@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_shared_utils_chromium_test_compat.a CMakeFiles/dawn_shared_utils_chromium_test_compat.dir/chromium_test_compat.cc.o
+/usr/bin/ranlib libdawn_shared_utils_chromium_test_compat.a

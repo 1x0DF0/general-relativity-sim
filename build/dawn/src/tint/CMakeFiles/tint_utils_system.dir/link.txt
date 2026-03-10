@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_system.a CMakeFiles/tint_utils_system.dir/utils/system/env_other.cc.o CMakeFiles/tint_utils_system.dir/utils/system/terminal_posix.cc.o CMakeFiles/tint_utils_system.dir/utils/system/executable_file_mac.cc.o
+/usr/bin/ranlib libtint_utils_system.a

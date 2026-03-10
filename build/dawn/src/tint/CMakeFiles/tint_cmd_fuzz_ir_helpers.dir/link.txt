@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_cmd_fuzz_ir_helpers.a CMakeFiles/tint_cmd_fuzz_ir_helpers.dir/cmd/fuzz/ir/helpers/substitute_overrides_config.cc.o
+/usr/bin/ranlib libtint_cmd_fuzz_ir_helpers.a

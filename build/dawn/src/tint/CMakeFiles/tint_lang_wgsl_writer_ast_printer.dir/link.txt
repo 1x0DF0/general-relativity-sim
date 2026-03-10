@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_writer_ast_printer.a CMakeFiles/tint_lang_wgsl_writer_ast_printer.dir/lang/wgsl/writer/ast_printer/ast_printer.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_writer_ast_printer.a

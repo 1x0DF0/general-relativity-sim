@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_core_ir_analysis.a CMakeFiles/tint_lang_core_ir_analysis.dir/lang/core/ir/analysis/for_loop_analysis.cc.o CMakeFiles/tint_lang_core_ir_analysis.dir/lang/core/ir/analysis/integer_range_analysis.cc.o CMakeFiles/tint_lang_core_ir_analysis.dir/lang/core/ir/analysis/loop_analysis.cc.o CMakeFiles/tint_lang_core_ir_analysis.dir/lang/core/ir/analysis/subgroup_matrix.cc.o
+/usr/bin/ranlib libtint_lang_core_ir_analysis.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_api.a CMakeFiles/tint_api.dir/api/tint.cc.o
+/usr/bin/ranlib libtint_api.a

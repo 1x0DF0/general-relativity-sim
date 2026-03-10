@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_core_ir_type.a CMakeFiles/tint_lang_core_ir_type.dir/lang/core/ir/type/array_count.cc.o
+/usr/bin/ranlib libtint_lang_core_ir_type.a

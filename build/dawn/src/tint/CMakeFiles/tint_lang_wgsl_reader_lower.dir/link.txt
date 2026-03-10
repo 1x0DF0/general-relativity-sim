@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_reader_lower.a CMakeFiles/tint_lang_wgsl_reader_lower.dir/lang/wgsl/reader/lower/lower.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_reader_lower.a

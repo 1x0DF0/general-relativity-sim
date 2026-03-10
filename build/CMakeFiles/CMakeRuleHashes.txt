@@ -1,0 +1,24 @@
+# Hashes of file build rules.
+a7a46036efb7adf450e325b04e2cb732 dawn/CMakeFiles/tint-format
+9b78f9ddc18ae560817b132e4c3e1fb4 dawn/CMakeFiles/tint-lint
+39b1025f04f652115894887189de6c5c dawn/gen/include/dawn/webgpu.h
+64af8842adae4e14939dcaacadb810d2 dawn/gen/include/dawn/webgpu_cpp.h
+fd6202e4ec737c8491a809ca4154f791 dawn/gen/src/dawn/common/GPUInfo_autogen.h
+6ffc0ba32045b96f90635f2213904062 dawn/gen/src/dawn/common/Version_autogen.h
+83f09ae50dfc4ba4dcdf9adfaba6c03e dawn/gen/src/dawn/dawn_proc.cpp
+5a247f151923f764368643b30c7c2799 dawn/gen/src/dawn/native/ValidationUtils_autogen.h
+f61c9df18a04fe4f91fb4694bd88a0e3 dawn/gen/src/dawn/native/webgpu_dawn_native_proc.cpp
+4dde62318b8cb3b42d53f5d305fb491a dawn/gen/src/dawn/utils/ComboLimits.h
+d2d0be64d59837b1a3905dd018a7ffbd dawn/gen/src/dawn/wire/ObjectType_autogen.h
+193e2eaa49d8405b01499059557ad73b dawn/gen/src/emdawnwebgpu/include/webgpu/webgpu.h
+65c53bcc4025787739c110a496ed5b4e dawn/gen/src/emdawnwebgpu/include/webgpu/webgpu_enum_class_bitmasks.h
+e4dffe5052908793218d78fbde59713e dawn/gen/src/emdawnwebgpu/include/webgpu/webgpu_glfw.h
+aa937bcf37c92ef2981d725ae305c8c8 dawn/gen/src/emdawnwebgpu/struct_info_webgpu.json
+0b395782ea0933591cf4fe56eaeefa96 dawn/gen/src/tint/utils/protos/ir/ir.pb.h
+94143b63a026fb296b1b53b88c3b9640 dawn/gen/src/tint/utils/protos/ir_fuzz/ir_fuzz.pb.h
+bf43ddc261958f489468ba7394b85c5f dawn/gen/webgpu-headers/webgpu.h
+e15e8a3e6451349efad5ae9c3a0ff9bc dawn/src/dawn/CMakeFiles/webgpu_headers_gen
+662001b9cebf39023f2d8cd529cd6b73 dawn/src/emdawnwebgpu/CMakeFiles/emdawnwebgpu_headers_gen
+662001b9cebf39023f2d8cd529cd6b73 dawn/src/emdawnwebgpu/CMakeFiles/emdawnwebgpu_js_gen
+6903cded22e4a829df26cd2658754da3 dawn/third_party/glfw/src/CMakeFiles/update_mappings
+cb197aedcf8151fc32f8b99b552dadef include/glslang/glsl_intrinsic_header.h

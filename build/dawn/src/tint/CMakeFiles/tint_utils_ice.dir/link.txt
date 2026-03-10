@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_ice.a CMakeFiles/tint_utils_ice.dir/utils/ice/debugger.cc.o CMakeFiles/tint_utils_ice.dir/utils/ice/ice.cc.o
+/usr/bin/ranlib libtint_utils_ice.a

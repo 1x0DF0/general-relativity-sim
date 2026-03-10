@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_type.a CMakeFiles/tint_lang_spirv_type.dir/lang/spirv/type/explicit_layout_array.cc.o CMakeFiles/tint_lang_spirv_type.dir/lang/spirv/type/image.cc.o CMakeFiles/tint_lang_spirv_type.dir/lang/spirv/type/literal.cc.o CMakeFiles/tint_lang_spirv_type.dir/lang/spirv/type/sampled_image.cc.o
+/usr/bin/ranlib libtint_lang_spirv_type.a

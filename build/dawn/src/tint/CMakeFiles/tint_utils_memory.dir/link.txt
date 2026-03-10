@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_memory.a CMakeFiles/tint_utils_memory.dir/utils/memory/memory.cc.o
+/usr/bin/ranlib libtint_utils_memory.a

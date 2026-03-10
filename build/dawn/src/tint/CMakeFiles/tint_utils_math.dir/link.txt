@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_math.a CMakeFiles/tint_utils_math.dir/utils/math/math.cc.o
+/usr/bin/ranlib libtint_utils_math.a

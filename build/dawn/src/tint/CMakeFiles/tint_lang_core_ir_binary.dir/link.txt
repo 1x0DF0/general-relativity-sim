@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_core_ir_binary.a CMakeFiles/tint_lang_core_ir_binary.dir/lang/core/ir/binary/decode.cc.o CMakeFiles/tint_lang_core_ir_binary.dir/lang/core/ir/binary/encode.cc.o
+/usr/bin/ranlib libtint_lang_core_ir_binary.a

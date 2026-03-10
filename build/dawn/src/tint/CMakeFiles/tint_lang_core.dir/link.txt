@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_core.a CMakeFiles/tint_lang_core.dir/lang/core/binary_op.cc.o CMakeFiles/tint_lang_core.dir/lang/core/enums.cc.o CMakeFiles/tint_lang_core.dir/lang/core/number.cc.o CMakeFiles/tint_lang_core.dir/lang/core/unary_op.cc.o
+/usr/bin/ranlib libtint_lang_core.a

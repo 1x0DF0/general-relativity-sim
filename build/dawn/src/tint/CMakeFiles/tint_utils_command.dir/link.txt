@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_command.a CMakeFiles/tint_utils_command.dir/utils/command/args.cc.o CMakeFiles/tint_utils_command.dir/utils/command/cli.cc.o CMakeFiles/tint_utils_command.dir/utils/command/command_posix.cc.o
+/usr/bin/ranlib libtint_utils_command.a

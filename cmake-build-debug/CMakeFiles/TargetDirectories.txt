@@ -1,3 +1,3 @@
-/Users/leog/CLionProjects/physics/cmake-build-debug/CMakeFiles/physics.dir
+/Users/leog/CLionProjects/physics/cmake-build-debug/CMakeFiles/spacetime_sim.dir
 /Users/leog/CLionProjects/physics/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/leog/CLionProjects/physics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

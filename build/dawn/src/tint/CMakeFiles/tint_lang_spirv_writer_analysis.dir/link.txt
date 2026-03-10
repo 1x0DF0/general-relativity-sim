@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_spirv_writer_analysis.a CMakeFiles/tint_lang_spirv_writer_analysis.dir/lang/spirv/writer/analysis/relaxed_precision_decorations.cc.o
+/usr/bin/ranlib libtint_lang_spirv_writer_analysis.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_msl_writer_printer.a CMakeFiles/tint_lang_msl_writer_printer.dir/lang/msl/writer/printer/printer.cc.o
+/usr/bin/ranlib libtint_lang_msl_writer_printer.a

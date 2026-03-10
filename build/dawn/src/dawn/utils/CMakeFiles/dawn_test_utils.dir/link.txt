@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_test_utils.a CMakeFiles/dawn_test_utils.dir/BinarySemaphore.cpp.o CMakeFiles/dawn_test_utils.dir/TerribleCommandBuffer.cpp.o CMakeFiles/dawn_test_utils.dir/TestUtils.cpp.o CMakeFiles/dawn_test_utils.dir/WireHelper.cpp.o
+/usr/bin/ranlib libdawn_test_utils.a

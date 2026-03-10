@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_rtti.a CMakeFiles/tint_utils_rtti.dir/utils/rtti/castable.cc.o CMakeFiles/tint_utils_rtti.dir/utils/rtti/switch.cc.o
+/usr/bin/ranlib libtint_utils_rtti.a

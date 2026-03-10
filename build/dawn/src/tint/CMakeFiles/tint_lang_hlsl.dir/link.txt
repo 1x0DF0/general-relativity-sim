@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_hlsl.a CMakeFiles/tint_lang_hlsl.dir/lang/hlsl/builtin_fn.cc.o
+/usr/bin/ranlib libtint_lang_hlsl.a

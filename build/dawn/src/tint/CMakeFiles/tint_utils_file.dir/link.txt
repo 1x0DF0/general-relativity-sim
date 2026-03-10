@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_file.a CMakeFiles/tint_utils_file.dir/utils/file/tmpfile_posix.cc.o
+/usr/bin/ranlib libtint_utils_file.a

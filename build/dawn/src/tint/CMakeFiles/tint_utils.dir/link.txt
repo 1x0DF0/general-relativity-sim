@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils.a CMakeFiles/tint_utils.dir/utils/reflection.cc.o CMakeFiles/tint_utils.dir/utils/result.cc.o
+/usr/bin/ranlib libtint_utils.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_containers.a CMakeFiles/tint_utils_containers.dir/utils/containers/containers.cc.o
+/usr/bin/ranlib libtint_utils_containers.a

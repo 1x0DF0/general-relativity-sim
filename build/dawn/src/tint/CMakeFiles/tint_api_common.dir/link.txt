@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_api_common.a CMakeFiles/tint_api_common.dir/api/common/vertex_pulling_config.cc.o
+/usr/bin/ranlib libtint_api_common.a

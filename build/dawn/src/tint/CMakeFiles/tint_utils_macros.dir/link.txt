@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_macros.a CMakeFiles/tint_utils_macros.dir/utils/macros/macros.cc.o
+/usr/bin/ranlib libtint_utils_macros.a

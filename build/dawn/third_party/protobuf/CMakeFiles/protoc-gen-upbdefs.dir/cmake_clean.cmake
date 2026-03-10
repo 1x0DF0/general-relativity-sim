@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../protoc-gen-upbdefs"
+  "../../protoc-gen-upbdefs-33.0.0"
+  "../../protoc-gen-upbdefs.pdb"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/code_generator.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/code_generator.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/code_generator_lite.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/code_generator_lite.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/plugin.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/plugin.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/plugin.pb.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/plugin.pb.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/retention.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/src/google/protobuf/compiler/retention.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/cmake/google/protobuf/compiler/plugin.upb_minitable.c.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/cmake/google/protobuf/compiler/plugin.upb_minitable.c.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/common.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/common.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/common/names.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/common/names.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/file_layout.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/file_layout.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/minitable/names.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/minitable/names.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/minitable/names_internal.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/minitable/names_internal.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/plugin.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/plugin.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/generator.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/generator.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/header.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/header.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/names.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/names.cc.o.d"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/source.cc.o"
+  "CMakeFiles/protoc-gen-upbdefs.dir/upb_generator/reflection/source.cc.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/protoc-gen-upbdefs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

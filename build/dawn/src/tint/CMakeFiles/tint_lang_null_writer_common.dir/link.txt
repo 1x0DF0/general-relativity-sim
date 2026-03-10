@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_null_writer_common.a CMakeFiles/tint_lang_null_writer_common.dir/lang/null/writer/common/options.cc.o CMakeFiles/tint_lang_null_writer_common.dir/lang/null/writer/common/output.cc.o
+/usr/bin/ranlib libtint_lang_null_writer_common.a

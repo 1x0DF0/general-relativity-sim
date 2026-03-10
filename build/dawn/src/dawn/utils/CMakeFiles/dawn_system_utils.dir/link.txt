@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdawn_system_utils.a CMakeFiles/dawn_system_utils.dir/CommandLineParser.cpp.o CMakeFiles/dawn_system_utils.dir/SystemHandle.cpp.o CMakeFiles/dawn_system_utils.dir/SystemUtils.cpp.o CMakeFiles/dawn_system_utils.dir/EmptyDebugLogger.cpp.o CMakeFiles/dawn_system_utils.dir/ObjCUtils.mm.o CMakeFiles/dawn_system_utils.dir/OSXTimer.cpp.o
+/usr/bin/ranlib libdawn_system_utils.a

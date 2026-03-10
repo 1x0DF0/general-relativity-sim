@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_ir.a CMakeFiles/tint_lang_wgsl_ir.dir/lang/wgsl/ir/atomic_vec2u_to_from_u64.cc.o CMakeFiles/tint_lang_wgsl_ir.dir/lang/wgsl/ir/builtin_call.cc.o CMakeFiles/tint_lang_wgsl_ir.dir/lang/wgsl/ir/unary.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_ir.a

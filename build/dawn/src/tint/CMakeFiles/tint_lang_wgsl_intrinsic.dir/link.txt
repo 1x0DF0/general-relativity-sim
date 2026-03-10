@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_wgsl_intrinsic.a CMakeFiles/tint_lang_wgsl_intrinsic.dir/lang/wgsl/intrinsic/ctor_conv.cc.o CMakeFiles/tint_lang_wgsl_intrinsic.dir/lang/wgsl/intrinsic/data.cc.o
+/usr/bin/ranlib libtint_lang_wgsl_intrinsic.a

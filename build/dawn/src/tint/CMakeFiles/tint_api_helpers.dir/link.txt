@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_api_helpers.a CMakeFiles/tint_api_helpers.dir/api/helpers/generate_bindings.cc.o
+/usr/bin/ranlib libtint_api_helpers.a

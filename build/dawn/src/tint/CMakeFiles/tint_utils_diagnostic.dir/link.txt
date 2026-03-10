@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_diagnostic.a CMakeFiles/tint_utils_diagnostic.dir/utils/diagnostic/diagnostic.cc.o CMakeFiles/tint_utils_diagnostic.dir/utils/diagnostic/formatter.cc.o CMakeFiles/tint_utils_diagnostic.dir/utils/diagnostic/source.cc.o
+/usr/bin/ranlib libtint_utils_diagnostic.a

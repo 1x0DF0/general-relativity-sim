@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_utils_symbol.a CMakeFiles/tint_utils_symbol.dir/utils/symbol/generation_id.cc.o CMakeFiles/tint_utils_symbol.dir/utils/symbol/symbol.cc.o CMakeFiles/tint_utils_symbol.dir/utils/symbol/symbol_table.cc.o
+/usr/bin/ranlib libtint_utils_symbol.a

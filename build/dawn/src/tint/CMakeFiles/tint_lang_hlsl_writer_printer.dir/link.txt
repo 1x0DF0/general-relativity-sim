@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtint_lang_hlsl_writer_printer.a CMakeFiles/tint_lang_hlsl_writer_printer.dir/lang/hlsl/writer/printer/printer.cc.o
+/usr/bin/ranlib libtint_lang_hlsl_writer_printer.a
