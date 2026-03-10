@@ -78,6 +78,9 @@ BUILD_SHARED_LIBS:BOOL=OFF
 BUILD_WERROR:BOOL=OFF
 
 //Path to a program.
+CCACHE_PROGRAM:FILEPATH=/opt/homebrew/bin/ccache
+
+//Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=CMAKE_ADDR2LINE-NOTFOUND
 
 //Path to a program.
@@ -235,6 +238,25 @@ CMAKE_NM:FILEPATH=/usr/bin/nm
 //Path to a program.
 CMAKE_OBJCOPY:FILEPATH=CMAKE_OBJCOPY-NOTFOUND
 
+//OBJCXX compiler
+CMAKE_OBJCXX_COMPILER:FILEPATH=/usr/bin/clang++
+
+//Flags used by the Objective-C++ compiler during all build types.
+CMAKE_OBJCXX_FLAGS:STRING=
+
+//Flags used by the Objective-C++ compiler during DEBUG builds.
+CMAKE_OBJCXX_FLAGS_DEBUG:STRING=-g
+
+//Flags used by the Objective-C++ compiler during MINSIZEREL builds.
+CMAKE_OBJCXX_FLAGS_MINSIZEREL:STRING=-Os -DNDEBUG
+
+//Flags used by the Objective-C++ compiler during RELEASE builds.
+CMAKE_OBJCXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
+
+//Flags used by the Objective-C++ compiler during RELWITHDEBINFO
+// builds.
+CMAKE_OBJCXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
+
 //Path to a program.
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
@@ -259,7 +281,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=physics
+CMAKE_PROJECT_NAME:STATIC=SpacetimeSimulator
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
@@ -549,6 +571,9 @@ DAWN_WEVERYTHING:BOOL=OFF
 //Value Computed by CMake
 Dawn_BINARY_DIR:STATIC=/Users/leog/CLionProjects/physics/build/dawn
 
+//The directory containing a CMake configuration file for Dawn.
+Dawn_DIR:PATH=/Users/leog/CLionProjects/physics/dawn/install/Release/lib/cmake/Dawn
+
 //Value Computed by CMake
 Dawn_IS_TOP_LEVEL:STATIC=OFF
 
@@ -669,6 +694,15 @@ SPIRV_HEADERS_ENABLE_TESTS:BOOL=OFF
 SPIRV_HEADERS_SKIP_EXAMPLES:BOOL=ON
 
 SPIRV_HEADERS_SKIP_INSTALL:BOOL=ON
+
+//Value Computed by CMake
+SpacetimeSimulator_BINARY_DIR:STATIC=/Users/leog/CLionProjects/physics/build
+
+//Value Computed by CMake
+SpacetimeSimulator_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SpacetimeSimulator_SOURCE_DIR:STATIC=/Users/leog/CLionProjects/physics
 
 //Override OS detection to force building of *_other.cc files
 TINT_BUILD_AS_OTHER_OS:BOOL=OFF
@@ -1059,9 +1093,21 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=56
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_COMPILER
+CMAKE_OBJCXX_COMPILER-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_FLAGS
+CMAKE_OBJCXX_FLAGS-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_FLAGS_DEBUG
+CMAKE_OBJCXX_FLAGS_DEBUG-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_FLAGS_MINSIZEREL
+CMAKE_OBJCXX_FLAGS_MINSIZEREL-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_FLAGS_RELEASE
+CMAKE_OBJCXX_FLAGS_RELEASE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCXX_FLAGS_RELWITHDEBINFO
+CMAKE_OBJCXX_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
 CMAKE_OBJDUMP-ADVANCED:INTERNAL=1
 //Platform information initialized
